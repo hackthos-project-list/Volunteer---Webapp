@@ -84,7 +84,6 @@ To solve in-app chat Apache Kafka is used as the messaging system. It provides a
 
 In the future more functionality enabled by Kafka will be used in the webapp. 
 
-![TheHeroLoopRoadmap](http://loopdigital.se/images/Roadmap.png)
 For GitHub use CTRL+click (on Windows and Linux) or CMD+click (on MacOS) on the link to open in new window.
 
 ## Project roadmap
