@@ -68,7 +68,6 @@ TheHeroLoop will penetrate solutions that removes toxic use.
 
 Another layer of security is TheHeroLoop never exposes the recipient’s public/hash key. It is considered cryptographically secure to share a public key, but not exposing it makes the system even more robust.
 
-![TheHeroLoopBlockstack](https://stacks-documentation.imgix.net/images/app-sign-in.png?auto=compress,format&w=480&fit=max&q=40&dpr=2) 
 The platform verifies requests with the associated key using the token hash algorithm from Blockstack. It’s only the hash key that passes within the centralised data.
 
 The landline functionality enables Loopers to call in and leave a voicenote requesting help from a Hero. This note is transcribed with speech to text and AI/ML models are applied. A pin is created and placed on the map with a need for a Hero  within a radius of 20 km area. The area the Looper stated in the voicenote. 
@@ -100,13 +99,6 @@ Additional stakeholder feedback
 ### Finish building the MVP
 Update of user stories based on user research
 Refinement of overall architecture
-
-### Partnerships & Communities
-Identify possible partners and communities that would be willing to trial the solution, or want to help us with further development
-
-See how we can partner with private and public sector networks, cities and community organisers
-
-As soon as the MVP is completed we will target these partners and ask for cooperation within their channels. https://www.euvsvirus.org/partners/
 
 ### Pilot
 Build strategic partnerships with solidarity networks, cities and community organisers
