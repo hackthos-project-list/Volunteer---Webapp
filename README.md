@@ -26,8 +26,7 @@ IBM Cloud</br>
    
 ## Demo video
 
-(https://youtu.be/lW8KVPbogbw)
-
+[![TheHeroLoopVideo](http://loopdigital.se/images/IBM-image-YouTube.png)](https://youtu.be/lW8KVPbogbw)
 For GitHub use CTRL+click (on Windows and Linux) or CMD+click (on MacOS) on the link to open in new window.
 Please click on the image to view the video on YouTube.
 
@@ -171,17 +170,9 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
 
 ### Running the tests
 Automated unit tests are run for this platform to ensure that sections of the application meets its design and behaves as intended.
-
-### Live demo
-You can already join TheHeroLoop at: http://dev.thedigitalvolunteer.se/welcome (Soon to be  www.TheHeroLoop.com after Call for Code submission).
 
 
 ## Built with
