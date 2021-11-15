@@ -216,32 +216,3 @@ Google Maps API </br>
 Google Speech to text </br>
 46 elks API </br>
 AI/ML 1) NLTK filtering of toxic use and 2) matching of users
-
-
-## Authors and contributors
-
-##### Bente Acking
-Idea The Digital Volunteer / TheHeroLoop </br>
-PO/PM</br>
-Founder & CEO Loopdigital</br>
-bente.acking@loopdigital.se</br>
-</br>
-##### Suneetha Jonnadula
-OpenShift CI/CD</br>
-Full stack developer</br>
-suneetha.jonnadula@gmail.com</br>
-</br>
-##### Ruthy Lichtenstein
-UX/UI Design</br>
-ruthy.licht@gmail.com</br>
-</br>
-##### Emmanuel Murairi
-Blockstack and React/Node.js</br>
-emurairi18@alastudents.org</br>
-</br>
-##### Keerti Bhogaraju
-AI/ML</br>
-bhogaraju.keerti17@gmail.com</br>
-</br>
-
-
