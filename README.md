@@ -26,7 +26,7 @@ IBM Cloud</br>
    
 ## Demo video
 
-[![TheHeroLoopVideo](http://loopdigital.se/images/IBM-image-YouTube.png)](https://www.youtube.com/watch?v=7Wijl7lTYAI "TheHeroLoop")
+[![TheHeroLoopVideo](http://loopdigital.se/images/IBM-image-YouTube.png)](https://youtu.be/lW8KVPbogbw)
 For GitHub use CTRL+click (on Windows and Linux) or CMD+click (on MacOS) on the link to open in new window.
 Please click on the image to view the video on YouTube.
 
@@ -126,11 +126,6 @@ Companies might be looking to help, and government agencies with the means to do
 A wallet functionality to share the leaderboard incentives/tokens will be set up in Ethereum.
 TheHeroLoop will also look into smart contracts in the Ethereum blockchain between citizens,  businesses, municipalities and universities. Hyperledger will be used for additional blockchain services.
 
-
-## Getting started
-How to copy the project and run on local machine
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
