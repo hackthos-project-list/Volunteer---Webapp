@@ -26,7 +26,7 @@ IBM Cloud</br>
    
 ## Demo video
 
-[![TheHeroLoopVideo](http://loopdigital.se/images/IBM-image-YouTube.png)](https://youtu.be/ydyCEeZTQ9c)
+[![TheHeroLoopVideo](http://loopdigital.se/images/IBM-image-YouTube.png)](https://youtu.be/lW8KVPbogbw)
 For GitHub use CTRL+click (on Windows and Linux) or CMD+click (on MacOS) on the link to open in new window.
 Please click on the image to view the video on YouTube.
 
